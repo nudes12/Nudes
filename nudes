@@ -1,0 +1,209 @@
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body
+{
+     background-color: #FF00FF; 
+}
+a
+{
+    color: #FF00FF;
+    text-decoration: none;
+}
+.black-bg
+{
+    width: 100%;
+    height: 150%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: rgba(0,0,0,0.75);
+    z-index: 10;
+}
+.feed
+{
+    max-width: 420px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: HN,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.header
+{
+    width: 100%;
+    height: 55px;
+    line-height: 55px;
+    background-color: #1994FC;
+    text-align: center;
+}
+.header img
+{
+    width: 180px;   
+}
+.window
+{
+    position: relative;
+    z-index:150;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px;
+    
+}
+.profile
+{
+    background-color: #FFF;
+    padding: 0px 20px;
+    box-sizing: border-box;
+    box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+}
+.profile img
+{
+    width: 100%;
+    
+}
+.profile-header
+{
+    padding: 10px 0px 15px 0px;
+    line-height: 30px;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: -1px;
+    margin-bottom: 0px;
+    color: #e81d24;
+}
+.profile-footer
+{
+    padding: 10px 0px;
+    line-height: 20px;
+    text-align: left;
+}
+.profile-buttons
+{
+    padding: 5px 0px 10px 0px;  
+    width: 100%;
+}
+.profile-buttons a
+{
+    box-sizing: border-box;
+    display: inline-block;
+    width:48%;
+    background-color: #1b9dd8;
+    color:#FFF;
+    text-align: center;
+    padding: 15px 0px;
+    margin-right: 2%;
+    text-transform: uppercase;
+    font-weight: bold; 
+}
+.profile-buttons a:last-child
+{
+   margin-right: 0%; 
+   background-color: #FF00FF;
+}
+.username
+{
+    font-weight: bold;
+    padding: 4px 0px;
+}
+.warning
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 20px 0px;
+    font-weight: 24px;
+}
+.button-bg
+{
+    box-sizing: border-box;
+    position:fixed;
+    width: 100%;
+    padding: 5px 20px;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+
+</style>
+<title>Premium Snapchat </title>
+<meta property="og:image" content="https://i.imgur.com/au05L3C.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+</head>
+<body>
+<script>
+ </script>
+<div class="black-bg"></div>
+</div>
+    
+    <div class="feed">
+    <div class="window">
+        <div class="profile">
+            
+        <div class="profile-header">NEW Premium Snapchat!</div>      
+   
+        <div class="cycle-slideshow">
+                <a href="https://zkego.getgirltofuck.net/c/da57dc555e50572d?s1=22136&s2=228200&j1=1&j3=1"><img src="https://images.sex.com/images/pinporn/2017/12/31/460/18871813.gif">
+               </div>  
+        <div class="profile-footer"><a href="https://zkego.getgirltofuck.net/c/da57dc555e50572d?s1=22136&s2=228200&j1=1&j3=1">Free 30 Days Trial - </a> when you sign-up to create account and Confirm E-mail <br> </div>   
+        <div class="profile-footer"><a href="https://zkego.getgirltofuck.net/c/da57dc555e50572d?s1=22136&s2=228200&j1=1&j3=1">NO "Credit Card"- </a> Required <br> </div>   
+        <div class="profile-buttons">
+
+            <a href="https://zkego.getgirltofuck.net/c/da57dc555e50572d?s1=22136&s2=228200&j1=1&j3=1">CONTINUE</a>
+        </div>            
+        </div>
+    </div>
+</div>
+
+<script src="../ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="../malsup.github.io/jquery.cycle2.js"></script>
+</body>
+</html> 
